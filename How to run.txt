@@ -1,0 +1,45 @@
+How to run:
+
+1 - Coverting Real videos to cropped time-lapse face frames:
+	1- In "cut_face.py" set "root_dir" in line 166 to the path of the real videos.
+	2- Run "cut_face.py".
+	3- It will convert and copy to a new path with "_cropped" added to the folder name.
+2 - Coverting Synthetic videos cropped time-lapse face frames:
+	1- In "dataload_2.py" set "root_dir" in line 502 to the path of the synthetic videos.
+	2- Run "dataload_2.py".
+	3- It will convert and copy to a new path with "_cropped" added to the folder name.
+3 - Create pretrained models on synthetic data:
+	1-  Set "name" parameter in line 68 of "train2_I.py" to the desired saving path for the trained model.
+	2-  Set "root_dir" in line 145 of "train2_I.py" to the path of cropped synthetic data.
+	3-  Run "train2_I.py" with the desired values set for the following command line arguments:
+		--NN , set this parameter to 33 if I3D is to be tested else the default value runs FN+INC
+		--Frz, to freeze the weights of the FaceNet set this parameter to 1. 0 for unfrozen weights.
+		--Len, set the video lenght parameter of the model 25 for INC25 and 64 for INC64. Set to 64 for I3D.
+		--lr, set to desired learning rate.
+		--numepc set to the desired number of epochs.
+		--BS, set to the desired batchsize.
+4 - Train and test the model on real data with or without synthetic pretraining:
+	1- Set "name" parameter in line 69 of "train2_RC2.py" to the desired saving path for the trained model.
+	2- Set "netS2" parameter in line 75 of "train2_RC2.py" to the path of the synthetic pretrained models.
+	3- Set "root_dir" in line 146 of "train2_RC2.py" to the path of cropped real data.
+	4- Run "train2_RC2.py" with the desired values set for the following command line arguments:
+		--NN , set this parameter to 33 if I3D is to be tested else the default value runs FN+INC
+		--Frz, To freeze the weights of the FaceNet set this parameter to 1. 0 for unfrozen weights.
+		--FrzN, set to the same value as --Frz.
+		--Len, Set the video lenght parameter of the model 25 for INC25 and 64 for INC64. Set to 64 for I3D.
+		--lr, set to desired learning rate.
+		--numepc set to the desired number of epochs.
+		--BS, set to the desired batchsize.
+		--cont, set this argument to 1 to use the synthetic pretrained model weights, set to 0 to train without the synthetic pretained weights.
+5 - Train and test the model in combined synthetic and real data mode.
+	1- Set "name" parameter in line 68 of "train2_IR.py" to the desired saving path for the trained model.
+	2- Set "root_dir" in line 145 of "train2_IR.py" to the path of cropped synthetic data.
+	3- Set "root_dir" in line 144 of "train2_IR.py" to the path of cropped real data.
+	4- Run "train2_IR.py" with the desired values set for the following command line arguments:
+		--NN , set this parameter to 33 if I3D is to be tested else the default value runs FN+INC
+		--Frz, to freeze the weights of the FaceNet set this parameter to 1. 0 for unfrozen weights.
+		--Len, set the video lenght parameter of the model 25 for INC25 and 64 for INC64. Set to 64 for I3D.
+		--lr, set to desired learning rate.
+		--numepc set to the desired number of epochs.
+		--BS, set to the desired batchsize.
+		--ratio, set to the desired data ratio of the synthetic data (between 0 and 1).
