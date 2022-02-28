@@ -5,7 +5,8 @@ After that, you will be able to convert the models to change
 in unity or blender following the instructions in the link below:
 https://www.youtube.com/watch?v=8qD9dFyOSGY
 
-you can then view and apply the animations provided in the animation folder. You can also
+you can then view and apply the animations provided in the animation folder. You can also add these to your
+animation folder:
 Documents/makehuman/v1py3/data/facs
 
 
