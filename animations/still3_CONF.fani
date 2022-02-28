@@ -1,0 +1,50 @@
+{
+    "61": {
+        "DF5BCC923CAAE15C": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.0,
+            "intensity_stop": 0.0,
+            "apex_start": 0.33,
+            "apex_stop": 0.6,
+            "apex_intensity_start": 1.0,
+            "apex_intensity_stop": 1.0
+        }
+    },
+    "25": {
+        "AB3400C13865A63C": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.0,
+            "intensity_stop": 0.3,
+            "apex_start": 0.33,
+            "apex_stop": 0.66,
+            "apex_intensity_start": 0.13,
+            "apex_intensity_stop": 0.23
+        }
+    },
+    "26": {
+        "E470079E28728E55": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.3,
+            "intensity_stop": 0.3,
+            "apex_start": 0.33,
+            "apex_stop": 0.66,
+            "apex_intensity_start": 0.36,
+            "apex_intensity_stop": 0.45
+        }
+    },
+    "1": {
+        "4A5B685E1AFAA548": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.0,
+            "intensity_stop": 1.0,
+            "apex_start": 0.33,
+            "apex_stop": 0.66,
+            "apex_intensity_start": 0.33,
+            "apex_intensity_stop": 0.66
+        }
+    }
+}

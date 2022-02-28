@@ -1,0 +1,74 @@
+{
+    "9": {
+        "8BEF5BE908811878": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 1.0,
+            "intensity_stop": 1.0,
+            "apex_start": 0.33,
+            "apex_stop": 0.66,
+            "apex_intensity_start": 1.0,
+            "apex_intensity_stop": 1.0
+        }
+    },
+    "26": {
+        "13C7C963A80EA08E": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.4,
+            "intensity_stop": 0.3,
+            "apex_start": 0.33,
+            "apex_stop": 0.66,
+            "apex_intensity_start": 0.46,
+            "apex_intensity_stop": 0.37
+        }
+    },
+    "25": {
+        "99FA39FFC2921F1D": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.5,
+            "intensity_stop": 0.5,
+            "apex_start": 0.33,
+            "apex_stop": 0.66,
+            "apex_intensity_start": 0.5,
+            "apex_intensity_stop": 0.5
+        }
+    },
+    "15": {
+        "955DFB5C6F454A43": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 1.0,
+            "intensity_stop": 1.0,
+            "apex_start": 0.33,
+            "apex_stop": 0.66,
+            "apex_intensity_start": 1.0,
+            "apex_intensity_stop": 1.0
+        }
+    },
+    "10": {
+        "465876C068A29666": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.5,
+            "intensity_stop": 0.7,
+            "apex_start": 0.33,
+            "apex_stop": 0.66,
+            "apex_intensity_start": 0.7,
+            "apex_intensity_stop": 0.7
+        }
+    },
+    "4_a": {
+        "34FB5D637A184DA5": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.6,
+            "intensity_stop": 0.6,
+            "apex_start": 0.33,
+            "apex_stop": 0.66,
+            "apex_intensity_start": 0.6,
+            "apex_intensity_stop": 0.6
+        }
+    }
+}

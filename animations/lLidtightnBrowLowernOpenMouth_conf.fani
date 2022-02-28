@@ -1,0 +1,70 @@
+{
+    "7": {
+        "18E88206BA3206BD": {
+            "image_start": 0.089,
+            "image_stop": 1.0,
+            "intensity_start": 0.0,
+            "intensity_stop": 0.2,
+            "apex_start": 0.336,
+            "apex_stop": 0.617,
+            "apex_intensity_start": 0.2,
+            "apex_intensity_stop": 0.4
+        },
+        "FEC7ABDCD6B3CDA7": {
+            "image_start": 0.476,
+            "image_stop": 1.01,
+            "intensity_start": 0.4,
+            "intensity_stop": 0.0,
+            "apex_start": 0.5,
+            "apex_stop": 1.0,
+            "apex_intensity_start": 0.4,
+            "apex_intensity_stop": 0.2
+        }
+    },
+    "62": {
+        "4E6734978D43D010": {
+            "image_start": 0.0,
+            "image_stop": 0.45,
+            "intensity_start": 0.0,
+            "intensity_stop": 1.0,
+            "apex_start": 0.15,
+            "apex_stop": 0.3,
+            "apex_intensity_start": 0.33,
+            "apex_intensity_stop": 0.66
+        },
+        "0D3F710A550769D6": {
+            "image_start": 0.552,
+            "image_stop": 1.0,
+            "intensity_start": 1.0,
+            "intensity_stop": 0.0,
+            "apex_start": 0.73,
+            "apex_stop": 0.859,
+            "apex_intensity_start": 0.66,
+            "apex_intensity_stop": 0.33
+        }
+    },
+    "4": {
+        "AA2A8E3F95CA528A": {
+            "image_start": 0.0,
+            "image_stop": 0.5,
+            "intensity_start": 0.5,
+            "intensity_stop": 1.0,
+            "apex_start": 0.16,
+            "apex_stop": 0.33,
+            "apex_intensity_start": 0.66,
+            "apex_intensity_stop": 0.83
+        }
+    },
+    "26": {
+        "EE54052684A7B092": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.33,
+            "intensity_stop": 0.33,
+            "apex_start": 0.45,
+            "apex_stop": 0.55,
+            "apex_intensity_start": 0.25,
+            "apex_intensity_stop": 0.25
+        }
+    }
+}

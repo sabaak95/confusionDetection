@@ -1,0 +1,58 @@
+{
+    "4": {
+        "22245931E57EC2F9": {
+            "image_start": 0.0,
+            "image_stop": 0.258,
+            "intensity_start": 0.0,
+            "intensity_stop": 1.0,
+            "apex_start": 0.089,
+            "apex_stop": 0.248,
+            "apex_intensity_start": 0.33,
+            "apex_intensity_stop": 0.66
+        }
+    },
+    "61": {
+        "2587AB5290579E81": {
+            "image_start": -0.01,
+            "image_stop": 0.224,
+            "intensity_start": 0.0,
+            "intensity_stop": 1.0,
+            "apex_start": 0.061,
+            "apex_stop": 0.103,
+            "apex_intensity_start": 0.33,
+            "apex_intensity_stop": 0.66
+        },
+        "FA1CF2654FF76A11": {
+            "image_start": 0.28,
+            "image_stop": 0.5,
+            "intensity_start": 1.0,
+            "intensity_stop": 0.0,
+            "apex_start": 0.397,
+            "apex_stop": 0.435,
+            "apex_intensity_start": 0.66,
+            "apex_intensity_stop": 0.33
+        }
+    },
+    "62": {
+        "04E5D61BA196DDDD": {
+            "image_start": 0.514,
+            "image_stop": 0.738,
+            "intensity_start": 0.0,
+            "intensity_stop": 1.0,
+            "apex_start": 0.575,
+            "apex_stop": 0.682,
+            "apex_intensity_start": 0.33,
+            "apex_intensity_stop": 0.66
+        },
+        "1ABFD7B76D12E148": {
+            "image_start": 0.822,
+            "image_stop": 1.0,
+            "intensity_start": 1.0,
+            "intensity_stop": 0.0,
+            "apex_start": 0.874,
+            "apex_stop": 0.921,
+            "apex_intensity_start": 0.66,
+            "apex_intensity_stop": 0.33
+        }
+    }
+}

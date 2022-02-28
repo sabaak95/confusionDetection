@@ -1,0 +1,74 @@
+{
+    "10": {
+        "F5E6982093F450C5": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.0,
+            "intensity_stop": 1.0,
+            "apex_start": 0.278,
+            "apex_stop": 0.66,
+            "apex_intensity_start": 0.33,
+            "apex_intensity_stop": 0.66
+        }
+    },
+    "22_25_up_down": {
+        "431D2C7B02DFB2A4": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.0,
+            "intensity_stop": 0.3,
+            "apex_start": 0.278,
+            "apex_stop": 0.66,
+            "apex_intensity_start": 0.10,
+            "apex_intensity_stop": 0.20
+        }
+    },
+    "2_a": {
+        "D25EC82F251D0297": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.0,
+            "intensity_stop": 1.0,
+            "apex_start": 0.33,
+            "apex_stop": 0.66,
+            "apex_intensity_start": 0.33,
+            "apex_intensity_stop": 0.66
+        }
+    },
+    "4_b": {
+        "46A69560BF53D020": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.0,
+            "intensity_stop": 0.7,
+            "apex_start": 0.33,
+            "apex_stop": 0.66,
+            "apex_intensity_start": 0.23,
+            "apex_intensity_stop": 0.46
+        }
+    },
+    "9": {
+        "9F4E8714EFF90A90": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.0,
+            "intensity_stop": 1.0,
+            "apex_start": 0.33,
+            "apex_stop": 0.66,
+            "apex_intensity_start": 0.33,
+            "apex_intensity_stop": 0.66
+        }
+    },
+    "5": {
+        "18ED1DCC2F784D76": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.0,
+            "intensity_stop": 0.4,
+            "apex_start": 0.33,
+            "apex_stop": 0.66,
+            "apex_intensity_start": 0.15,
+            "apex_intensity_stop": 0.3
+        }
+    }
+}

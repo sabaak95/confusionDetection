@@ -1,0 +1,110 @@
+{
+    "1": {
+        "ABDA5FB8DE25EC1A": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.5,
+            "intensity_stop": 0.5,
+            "apex_start": 0.45,
+            "apex_stop": 0.55,
+            "apex_intensity_start": 0.25,
+            "apex_intensity_stop": 0.25
+        }
+    },
+    "2": {
+        "DD3ED8C946D7E52F": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.75,
+            "intensity_stop": 0.75,
+            "apex_start": 0.45,
+            "apex_stop": 0.55,
+            "apex_intensity_start": 0.5,
+            "apex_intensity_stop": 0.5
+        }
+    },
+    "2_a": {
+        "64EF90F8B430E0C8": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.25,
+            "intensity_stop": 0.25,
+            "apex_start": 0.45,
+            "apex_stop": 0.55,
+            "apex_intensity_start": 0.16,
+            "apex_intensity_stop": 0.16
+        }
+    },
+    "4": {
+        "8F2DEC3CFF9A8185": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.8,
+            "intensity_stop": 0.8,
+            "apex_start": 0.45,
+            "apex_stop": 0.55,
+            "apex_intensity_start": 0.57,
+            "apex_intensity_stop": 0.57
+        }
+    },
+    "4_b": {
+        "D97E51FB370B774D": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.8,
+            "intensity_stop": 0.8,
+            "apex_start": 0.45,
+            "apex_stop": 0.55,
+            "apex_intensity_start": 0.57,
+            "apex_intensity_stop": 0.57
+        }
+    },
+    "5": {
+        "A9C51798250276E3": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 1.0,
+            "intensity_stop": 1.0,
+            "apex_start": 0.45,
+            "apex_stop": 0.55,
+            "apex_intensity_start": 0.66,
+            "apex_intensity_stop": 0.66
+        }
+    },
+    "23": {
+        "8E651E6B1006C700": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.3,
+            "intensity_stop": 0.3,
+            "apex_start": 0.45,
+            "apex_stop": 0.55,
+            "apex_intensity_start": 0.0,
+            "apex_intensity_stop": 0.0
+        }
+    },
+    "26": {
+        "294FEE7581F65625": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.0,
+            "intensity_stop": 0.0,
+            "apex_start": 0.45,
+            "apex_stop": 0.55,
+            "apex_intensity_start": 0.75,
+            "apex_intensity_stop": 0.75
+        }
+    },
+    "22_25_up_down": {
+        "622BA6B41F4A5BDF": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.0,
+            "intensity_stop": 0.0,
+            "apex_start": 0.45,
+            "apex_stop": 0.55,
+            "apex_intensity_start": 0.55,
+            "apex_intensity_stop": 0.55
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "25_a": {
+        "958D7BF13571066D": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.0,
+            "intensity_stop": 0.0,
+            "apex_start": 0.48,
+            "apex_stop": 0.52,
+            "apex_intensity_start": 1.0,
+            "apex_intensity_stop": 1.0
+        }
+    },
+    "16": {
+        "E74AA1338F257A98": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.0,
+            "intensity_stop": 0.0,
+            "apex_start": 0.48,
+            "apex_stop": 0.52,
+            "apex_intensity_start": 1.0,
+            "apex_intensity_stop": 1.0
+        }
+    },
+    "26": {
+        "C02C3DD078789E23": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.0,
+            "intensity_stop": 0.0,
+            "apex_start": 0.48,
+            "apex_stop": 0.52,
+            "apex_intensity_start": 0.4,
+            "apex_intensity_stop": 0.4
+        }
+    },
+    "6_b": {
+        "BAA643163017B3D6": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.75,
+            "intensity_stop": 0.75,
+            "apex_start": 0.48,
+            "apex_stop": 0.52,
+            "apex_intensity_start": 1.0,
+            "apex_intensity_stop": 1.0
+        }
+    },
+    "5": {
+        "4059A87028710380": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.5,
+            "intensity_stop": 0.5,
+            "apex_start": 0.278,
+            "apex_stop": 0.66,
+            "apex_intensity_start": 0.5,
+            "apex_intensity_stop": 0.5
+        }
+    },
+    "4": {
+        "8E278257F5368D09": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.60,
+            "intensity_stop": 0.60,
+            "apex_start": 0.278,
+            "apex_stop": 0.66,
+            "apex_intensity_start": 0.60,
+            "apex_intensity_stop": 0.60
+        }
+    },
+    "4_b": {
+        "60AC76EED795C70A": {
+            "image_start": 0.0,
+            "image_stop": 1.0,
+            "intensity_start": 0.60,
+            "intensity_stop": 0.60,
+            "apex_start": 0.278,
+            "apex_stop": 0.66,
+            "apex_intensity_start": 0.60,
+            "apex_intensity_stop": 0.60
+        }
+    }
+}
